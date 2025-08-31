@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+.env
+
+# Visual Studio / .NET
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.vcxproj.user
+*.pdb
+*.cache
+*.log
+*.vs/
+Debug/
+Release/
+
+# OS-specific
+.DS_Store
+Thumbs.db
